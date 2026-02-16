@@ -1,0 +1,10 @@
+{
+  "source": "WA Transport Cape Naturaliste charts",
+  "ts_utc": "2026-02-15T22:12:00Z",
+  "observed_at_local": "2026-02-16T03:00:00+08:00",
+  "hs_m": 2.5,
+  "tp_s": 11,
+  "dir_deg": 235,
+  "dir_cardinal": "SW",
+  "notes": ["Chart timestamp shows 03:00 WST 16 Feb (~3h old)", "Hs estimated from Total (red) line", "Tp estimated from swell period rings", "Direction ~WSW/SW boundary"]
+}
